@@ -1,10 +1,13 @@
-In this guide you will learn how to setup your datapack for a submission and where to submit it then.
+This is the repository for submitting datapacks to dManager.
+Read more about dManager here: [stevertus.ga/dManager](http://stevertus.ga/dManager)
+
+
+In this guide you will learn how to setup your pack for a submission and where to submit it them.
 
 Maybe you did already notice it: dManager has a version system that allows it to send updates to the users. So you have to invest a bit more effort to setup your files properly.
 
-I would suggest that you call your releases like the version (e.g: tekPack v0.3.zip).
-
-So you and the consumer which version is used.
+I would suggest that you call your release files like the version (e.g: tekPack v0.3.zip).
+So you and the consumer know which version is used.
 
 dManager **does not** host the files! It provides just the platform and the connection to the files.
 
@@ -13,7 +16,7 @@ I would consider uploading these files to gitHub, Mediafire, Dropbox or your own
 Try it by putting the filepath into your browsers addressbar. The file should either be downloaded or the raw text should be displayed.
 
 So in this web source you have to setup a datapack.json file.
-Here you can choose the name of your datapack, the id and much more.
+Here you can choose the name of your pack, the id and much more.
 
 > [] is optional
 
@@ -29,7 +32,7 @@ Here you can choose the name of your datapack, the id and much more.
 			shortened by beginning with /)"
   ["banner"]: "a banner image for the details page",
   ["creator"]: "name of the creator",
-  ["creator-link"]: "a link to social media or whatever",
+  ["creatorLink"]: "a link to social media or whatever",
   ["website"]: "a link to a website for datapacks or to a post",
   "files": {
 	// list here for every past version the download link(full)
@@ -37,7 +40,7 @@ Here you can choose the name of your datapack, the id and much more.
     "0.1": "http://download.com/version v0.1.zip"
   },
   "description":"a link directly to a markdown or basic html file
-   				 that describe the datapack and how to use it",
+   				 that describe the pack and how to use it (images supported)",
   ["dependencies"]:[
 	"an array of all the ids of packs your pack requires",
 	"e.g: utils, libaries, own resource pack",
@@ -46,12 +49,12 @@ Here you can choose the name of your datapack, the id and much more.
 }
 
 ```
-If you set up all of this you are ready to publish it! I want to have a high quality selection of datapacks in dManager, so every submitted pack is checked manually, so it can take a few days until it is released.
+If you set up all of this you are ready to publish it! I want to have a high quality selection of packs in dManager, so every submitted pack is checked manually, so it can take a few days until it is released.
 
-You can publish your datapack in different ways:
-* use the submit fields at the [bottom of the page](#form)
-* create a pull request on gitHub: [here]()
-* write a message on my [Discord]() in the channel #publish-my-datapack
+You can publish your pack in different ways:
+* click the submit button directly in the app
+* create a pull request on gitHub: [here](https://github.com/Stevertus/dManager-packages/pulls)
+* write a message on my [Discord](https://discord.gg/BmnMBSq) in the channel #feature-my-pack
 * contact me by email [stevertusyt@gmail.com](mailto::stevertusyt@gmail.com)
 
 In each case you have to provide a valid link to the `datapack.json`, all the specified files must be reachable and you have to give a small description(max 200w) of your datapack.
