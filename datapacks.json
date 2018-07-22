@@ -17,7 +17,7 @@
   },
   {
     "id":"datapack_utils",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-datapack_utils.json"
+    "url":"/datapack_utils"
     },
   {
     "id":"net.plagiatus.multiplayersleep",
