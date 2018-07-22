@@ -11,7 +11,7 @@ So you and the consumer know which version is used.
 
 dManager **does not** host the files! It provides just the platform and the connection to the files.
 
-I would consider uploading these files to gitHub, Mediafire, Dropbox or your own web source. It is important that these files can be accessed directly without loading a website!
+I would consider uploading these files to gitHub, Mediafire or your own web source. It is important that these files can be accessed directly without loading a website!
 
 Try it by putting the filepath into your browsers addressbar. The file should either be downloaded or the raw text should be displayed.
 
