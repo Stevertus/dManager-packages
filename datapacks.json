@@ -12,6 +12,14 @@
   "url":"/tekPackR"
   },
   {
+    "id":"soulbound",
+    "url":"https://raw.githubusercontent.com/TheBMan-Datapacks/Soulbound/master/datapack.json"
+  },
+  {
+    "id":"darkspyro_minigames",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Darkspyro911-minigames.json"
+  },
+  {
     "id":"net.plagiatus.itemchallenge",
     "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/itemchallenge/datapack.json"
   },
