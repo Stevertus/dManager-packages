@@ -12,6 +12,10 @@
   "url":"/tekPackR"
   },
   {
+    "id":"mechanization",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json"
+  },
+  {
     "id":"radiated_pa_dp",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_dp.json"
   },
