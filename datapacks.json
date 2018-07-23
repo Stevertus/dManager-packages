@@ -16,6 +16,10 @@
     "url":"https://raw.githubusercontent.com/TheBMan-Datapacks/Soulbound/master/datapack.json"
   },
   {
+    "id":"CyTweaksMinecraft",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Cyklan-CyTweaksMinecraft.json"
+  },
+  {
     "id":"darkspyro_minigames",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Darkspyro911-minigames.json"
   },

@@ -1,0 +1,14 @@
+{
+  "id":"CyTweaksMinecraft",
+  "type":"datapack",
+  "version":"0.2.2",
+  "title":"Cy's Minecraft Tweaks",
+  "logo":"http://cyklan.de/datapacks/logos/minecrafttweaks.png",
+  "creator":"Cyklan",
+  "creatorLink":"https://twitch.tv/icyklan",
+  "website":"http://www.cyklan.de",
+  "files": {
+    "0.2.2":"https://nofile.io/f/kdavXuRx7sn"
+  },
+  "description":"https://nofile.io/f/PFSXZwWRxHP"
+}
