@@ -12,6 +12,14 @@
   "url":"/tekPackR"
   },
   {
+    "id":"radiated_pa_dp",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_dp.json"
+  },
+  {
+    "id":"radiated_pa_rp",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_rp.json"
+  },
+  {
     "id":"soulbound",
     "url":"https://raw.githubusercontent.com/TheBMan-Datapacks/Soulbound/master/datapack.json"
   },
