@@ -16,7 +16,9 @@
     "2.0.1": "https://nofile.io/f/UHG5dGs0YKW/Mechanization_2.0.1.zip",
     "2.0.0": "https://nofile.io/f/TGvjVCZhXTZ/Mechanization_2.0.0.zip"
   },
-
+  "dependencies": [
+    "mechanzation_resources"
+  ],
   "creator": "ImCoolYeah105",
   "creatorLink": "www.youtube.com/channel/UCUG8oOsNcZlIfBDJ9hZ3aWg",
   "website": "minecraft.curseforge.com/projects/mechanization-datapack"

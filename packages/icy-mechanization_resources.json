@@ -1,0 +1,15 @@
+{
+  "id":"mechanzation_resources",
+  "type":"resourcepack",
+  "version":"2.0.2b",
+  "title":"Mechanization Resources",
+  "logo":"https://i.imgur.com/bccpfPv.png",
+  "description":"https://raw.githubusercontent.com/ImCoolYeah105/Mechanization/master/pack.mcmeta",
+
+  "files": {
+    "2.0.2b": "https://nofile.io/f/pAnK3ocGOCb/MechResources_v2.0.2b.zip"
+  },
+  "creator": "ImCoolYeah105",
+  "creatorLink": "http://youtube.com/channel/UCUG8oOsNcZlIfBDJ9hZ3aWg",
+  "website": "https://minecraft.curseforge.com/projects/mechanization-datapack"
+}

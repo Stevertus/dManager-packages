@@ -16,6 +16,10 @@
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json"
   },
   {
+    "id":"mechanzation_resources",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization_resources.json"
+  },
+  {
     "id":"radiated_pa_dp",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_dp.json"
   },
@@ -41,7 +45,7 @@
   },
   {
     "id":"datapack_utils",
-    "url":"/datapack_utils"
+    "url":"https://cdn.discordapp.com/attachments/470189341801578508/471122547186991115/datapack.json"
     },
   {
     "id":"net.plagiatus.multiplayersleep",
