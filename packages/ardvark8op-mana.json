@@ -1,0 +1,12 @@
+{
+"type":"datapack",
+"creator":"Ardvark8op",
+"id":"mana",
+"title":"Universal Mana System",
+"logo":"https://i.imgur.com/5hsU0Ki.png",
+"description":"https://raw.githubusercontent.com/Ardvark8op/ManaSystem/master/README.md",
+"version":"1.0",
+"files":{
+"1.0":"https://nofile.io/f/DwO1b0q7uHC"
+}
+}
