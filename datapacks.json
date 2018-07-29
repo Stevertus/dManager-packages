@@ -12,6 +12,10 @@
   "url":"/tekPackR"
   },
   {
+    "id":"Vampirism",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/useranimated-Vampirism.json"
+  },
+  {
     "id":"mana",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-mana.json"
   },
