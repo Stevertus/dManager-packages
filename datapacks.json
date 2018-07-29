@@ -11,6 +11,11 @@
   "id":"tekPackR",
   "url":"/tekPackR"
   },
+  
+  {
+    "id":"ore_gen",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/giro17-ore_gen.json"
+  },
   {
     "id":"Vampirism",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/useranimated-Vampirism.json"
