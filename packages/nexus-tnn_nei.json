@@ -1,0 +1,14 @@
+{
+"type":"datapack",
+"id":"tnn_nei",
+"title":"Never Enough Items",
+"video":"https://www.youtube.com/channel/UCegI5IfnYr2zRysbSqsr24Q",
+"website":"https://thenuclearnexus.weebly.com/nei.html",
+"logo":"https://i.imgur.com/S7ahhua.png",
+"creator":"Nexus",
+"creatorLink":"https://www.instagram.com/thenuclearnexus/",
+"description":"https://raw.githubusercontent.com/TheNuclearNexus/nei/master/README.md",
+"files":{
+"v1.0":"https://github.com/TheNuclearNexus/nei/raw/master/nei_dp.zip"
+}
+}

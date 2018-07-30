@@ -11,7 +11,11 @@
   "id":"tekPackR",
   "url":"/tekPackR"
   },
-  
+
+  {
+    "id":"tnn_nei",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/nexus-tnn_nei.json"
+  },
   {
     "id":"ore_gen",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/giro17-ore_gen.json"
