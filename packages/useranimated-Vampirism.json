@@ -5,9 +5,10 @@
 "id":"Vampirism",
 "title":"Vampirism",
 "logo":"https://i.imgur.com/seI1ZYl.png",
-"description":"https://nofile.io/f/HTnZzTKqN7S/READ-ME.txt",
-"version":"1.0.0",
+"description":"https://raw.githubusercontent.com/UserAnimated/Vampirism/master/README.md",
+"version":"1.0.3",
 "files":{
+"1.0.3":"https://nofile.io/f/g6MSyfHCO32/Vampirism+v1.0.3.zip",
 "1.0.0":"https://nofile.io/f/HtdvUGSwPzv/Vampirism.zip"
 }
 }
