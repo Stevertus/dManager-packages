@@ -1,0 +1,12 @@
+{
+"type":"resourcepack",
+"creator":"Ardvark8op",
+"id":"stoneCrafting",
+"title":"Stone Crafting Table Resources",
+"logo":"https://i.imgur.com/ZUwIXTu.png",
+"description":"https://raw.githubusercontent.com/Ardvark8op/Descs/master/stoneCrafting.md",
+"version":"1.0",
+"files":{
+"1.0":"https://nofile.io/g/tXKd3ARyw1qpZZcpKTM1AbPwA9YbZYz7jxqJbIpmwrWpVIuIfcXIu4GyScahWjLy/StoneCraftingTableResources.zip/"
+}
+}
