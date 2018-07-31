@@ -8,8 +8,5 @@
 "version":"1.0",
 "files":{
 "1.0":"https://nofile.io/g/tXKd3ARyw1qpZZcpKTM1AbPwA9YbZYz7jxqJbIpmwrWpVIuIfcXIu4GyScahWjLy/StoneCraftingTableResources.zip/"
-},
-"dependencies":[
-"datapack_utils"
-]
+}
 }
