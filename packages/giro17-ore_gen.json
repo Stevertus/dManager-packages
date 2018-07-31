@@ -1,15 +1,16 @@
 {
 "type":"datapack",
-"description":"https://drive.google.com/uc?authuser=0&id=1V5o0xwEhmtE_Nsiwtwgt22aizi1VicMy&export=download",
+"description":"https://drive.google.com/uc?authuser=0&id=18781Xd9mfz9mY9VNDPF6vCvuUIpMcJby&export=download",
 "creator":"GIRO17",
 "creatorLink":"https://giro17.jimdo.com",
 "id":"ore_gen",
-"title":"ore_gen",
+"title":"ore gen",
 "logo":"https://i.imgur.com/hTboiqG.jpg",
 "website":"https://giro17.jimdo.com/vanillamod-s/ore-generator/",
 "video":"https://youtu.be/zQWH0TNLpfA",
 "banner":"",
+"version":"1.0",
 "files":{
-"1.0":"https://drive.google.com/uc?authuser=0&id=1165DCWWqihBhydhSI8Jc_Rbx7WX8cDwc&export=download"
+"1.0":"https://drive.google.com/uc?authuser=0&id=1xOUX1UB4jt8l2IIF8RiMv4LSj8_Qt1nn&export=download"
 }
 }
