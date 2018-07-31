@@ -13,6 +13,10 @@
   },
 
   {
+    "id":"treeassist",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/juli_kl-treeassist.json"
+  },
+  {
     "id":"baecon.exvanilla",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/baecon-exvanilla.json"
   },
