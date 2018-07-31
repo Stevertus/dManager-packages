@@ -10,5 +10,8 @@
 "version":"1.0",
 "files":{
 "1.0":"https://nofile.io/f/8v5BhWpGJjC/Ununstackable.zip"
-}
+},
+"dependencies":[
+  "ununstackable_res"
+]
 }
