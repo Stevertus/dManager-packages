@@ -41,6 +41,10 @@
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_rp.json"
   },
   {
+    "id":"stoneCrafting_dp",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_dp.json"
+  },
+  {
     "id":"mechanization",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json"
   },
