@@ -1,25 +1,30 @@
 {
   "id":"mechanization",
   "type":"datapack",
-  "version":"2.0.2d",
+  "version":"2.0.4a",
   "title":"Mechanization",
   "logo":"https://i.imgur.com/bccpfPv.png",
   "description":"https://raw.githubusercontent.com/ImCoolYeah105/Mechanization/master/README.md",
-
   "files": {
-    "2.0.2d": "https://nofile.io/f/TADG051gVNN/Mechanization_2.0.2d.zip",
-    "2.0.2c": "https://nofile.io/f/U0VKme9BteX/Mechanization_v2.0.2c.zip",
-    "2.0.2b": "https://nofile.io/f/SFQX0cS28c1/Mechanization_2.0.2b.zip",
-    "2.0.2a": "https://nofile.io/f/BKmnj5Ue7pt/Mechanization_v2.0.2a.zip",
-    "2.0.2": "https://nofile.io/f/EnrgEOsQFYJ/Mechanization_v2.0.2.zip",
-    "2.0.1a": "https://nofile.io/f/274eBKr1c8W/Mechanization_2.0.1a.zip",
-    "2.0.1": "https://nofile.io/f/UHG5dGs0YKW/Mechanization_2.0.1.zip",
-    "2.0.0": "https://nofile.io/f/TGvjVCZhXTZ/Mechanization_2.0.0.zip"
+    "2.0.4a":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.4a/Mechanization_v2.0.4a.zip",
+    "2.0.4":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.4/Mechanization_v2.0.4.zip",
+    "2.0.3d":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.3d/Mechanization_v2.0.3d.zip",
+    "2.0.3c":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.3c/Mechanization_v2.0.3c.zip",
+    "2.0.3b":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.3b/Mechanization_v2.0.3b.zip",
+    "2.0.3":"https://github.com/ImCoolYeah105/Mechanization/releases/download/2.0.3/Mechanization_v2.0.3.zip",
+    "2.0.2d": "http://www.mediafire.com/file/hkbv4ao0c4a6cmt/Mechanization_v2.0.2d.zip/file",
+    "2.0.2c": "http://www.mediafire.com/file/zsebkh756ykz7zk/Mechanization_v2.0.2c.zip/file",
+    "2.0.2b": "http://www.mediafire.com/file/npnfbftm9anlg9p/Mechanization_v2.0.2b.zip/file",
+    "2.0.2a": "http://www.mediafire.com/file/jjl14esrzje45tj/Mechanization_v2.0.2a.zip/file",
+    "2.0.2": "http://www.mediafire.com/file/9kh9avhj3a995hg/Mechanization_v2.0.2.zip/file",
+    "2.0.1a": "http://www.mediafire.com/file/sjxy8y7vnr9tjfn/Mechanization_v2.0.1a.zip/file",
+    "2.0.1": "http://www.mediafire.com/file/7uk9wv7fh0eh4qs/Mechanization_v2.0.1.zip/file",
+    "2.0.0": "http://www.mediafire.com/file/5r01az7937y3lz7/Mechanization_v2.0.0.zip/file"
   },
-  "dependencies": [
-    "mechanzation_resources"
+  "dependencies":[
+    "mechanization_resources"
   ],
   "creator": "ImCoolYeah105",
-  "creatorLink": "www.youtube.com/channel/UCUG8oOsNcZlIfBDJ9hZ3aWg",
-  "website": "minecraft.curseforge.com/projects/mechanization-datapack"
+  "creatorLink": "http://www.youtube.com/channel/UCUG8oOsNcZlIfBDJ9hZ3aWg",
+  "website": "http://minecraft.curseforge.com/projects/mechanization-datapack"
 }
