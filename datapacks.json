@@ -87,5 +87,9 @@
   {
     "id":"wawla",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/thebman-wawla.json"
+  },
+  {
+    "id":"tnn_mo_food",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-mofood.json"
   }
 ]
