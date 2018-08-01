@@ -1,0 +1,23 @@
+{
+
+"type":"datapack",
+
+"creator":"TheBMan",
+
+"id":"wawla",
+
+"title":"What Are We Looking At?",
+
+"logo":"https://i.imgur.com/l85WlU7.png",
+
+"website":"https://github.com/TheBMan-Datapacks/Wawla",
+
+"description":"https://raw.githubusercontent.com/TheBMan-Datapacks/Wawla/master/README.md",
+
+"version":"0.1",
+"files":{
+"0.1":"https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip"
+
+}
+
+}
