@@ -83,4 +83,9 @@
   {
     "id":"net.plagiatus.multiplayersleep",
     "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/multiplayer_sleep/datapack.json"
-  }]
+  },
+  {
+    "id":"wawla",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/thebman-wawla.json"
+  }
+]
