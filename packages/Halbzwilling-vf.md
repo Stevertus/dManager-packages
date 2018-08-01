@@ -65,3 +65,5 @@ Wie viel Luft ein Spieler hat.
 
 **vf_playerkill**
 Wie viele Spieler ein Spieler getötet hat.
+****
+Idee und Umsetzung: Halbzwilling, Shade

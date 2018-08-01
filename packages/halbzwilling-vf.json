@@ -1,0 +1,16 @@
+{
+"type":"datapack",
+"description":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Halbzwilling-vf.md",
+"creator":"Halbzwilling",
+"creatorLink":"https://www.youtube.com/user/Halbzwilling",
+"id":"vf",
+"title":"Vanilla Forge",
+"logo":"https://i.imgur.com/wXO5oAu.png",
+"banner":"https://i.imgur.com/dFjgGyF.png",
+"website":"https://halbzwilling.wixsite.com/noah",
+"video":"miRJFOYQzv8",
+"version":"1.0",
+"files":{
+"1.0":"https://nofile.io/f/GnFGhxwmSVD/vf.zip"
+}
+}

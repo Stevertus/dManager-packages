@@ -4,14 +4,18 @@
   },{
   "id":"mccam",
   "url":"/mccam"
-  },{
+  },
+  {
+    "id":"vf",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/halbzwilling-vf.json"
+  },
+  {
   "id":"tekPack",
   "url":"/tekPack"
   },{
   "id":"tekPackR",
   "url":"/tekPackR"
   },
-
   {
     "id":"tnn_nei",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/nexus-tnn_nei.json"
