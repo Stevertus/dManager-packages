@@ -1,0 +1,15 @@
+{
+"type":"datapack",
+"creator":"The Nuclear Nexus",
+"website":"",
+"description":"https://raw.githubusercontent.com/TheNuclearNexus/mo-food/master/README.md",
+"logo":"https://i.imgur.com/XZz3weM.png",
+"title":"Mo' Food API",
+"creatorLink":"https://www.youtube.com/channel/UCegI5IfnYr2zRysbSqsr24Q",
+"video":"",
+"id":"tnn_mo_food",
+"version":"1.0",
+"files":{
+"1.0":"https://github.com/TheNuclearNexus/mo-food/raw/master/Mo_Food_API_1.0.zip"
+}
+}
