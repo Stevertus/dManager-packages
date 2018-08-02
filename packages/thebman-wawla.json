@@ -6,17 +6,20 @@
 
 "id":"wawla",
 
-"title":"What Are We Looking At?",
+"title":"What Even Is That Thing?",
 
-"logo":"https://i.imgur.com/l85WlU7.png",
+"logo":"https://i.imgur.com/ZB8RnmN.png",
 
-"website":"https://github.com/TheBMan-Datapacks/Wawla",
+"website":"https://github.com/TheBMan-Datapacks/WEITT",
 
-"description":"https://raw.githubusercontent.com/TheBMan-Datapacks/Wawla/master/README.md",
+"description":"https://raw.githubusercontent.com/TheBMan-Datapacks/WEITT/master/README.md",
 
-"version":"0.1",
+"version":"0.2",
+
 "files":{
-"0.1":"https://github.com/TheBMan-Datapacks/Wawla/raw/master/wawla.zip"
+"0.2":"https://github.com/TheBMan-Datapacks/WEITT/raw/master/WEITT.zip",
+
+"0.1":"https://github.com/TheBMan-Datapacks/WEITT/raw/master/wawla.zip"
 
 }
 
