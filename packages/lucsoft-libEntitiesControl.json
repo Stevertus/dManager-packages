@@ -1,0 +1,14 @@
+{
+"type":"datapack",
+"creator":"lucsoft",
+"id":"libEntitiesControl",
+"title":"libEntitiesControl",
+"website":"https://github.com/lucsoft/libEntitiesControl",
+"creatorLink":"https://discordapp.com/channels/@me/137253345336229889",
+"logo":"https://github.com/lucsoft/libEntitiesControl/raw/master/img.png",
+"description":"https://raw.githubusercontent.com/lucsoft/libEntitiesControl/master/README.md",
+"version":"0.1",
+"files":{
+"0.1":"https://github.com/lucsoft/libEntitiesControl/raw/master/EntitiesControl.zip"
+}
+}
