@@ -95,5 +95,9 @@
   {
     "id":"tnn_mo_food",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-mofood.json"
+  },
+  {
+    "id":"libEntitiesControl",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lucsoft-libEntitiesControl"
   }
 ]
