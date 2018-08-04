@@ -99,5 +99,9 @@
   {
     "id":"libEntitiesControl",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lucsoft-libEntitiesControl.json"
+  },
+  {
+    "id":"perms",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/fanvonfazon-perms.json"
   }
 ]
