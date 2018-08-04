@@ -1,0 +1,15 @@
+{
+"type":"datapack",
+"creator":"FanVonFazon",
+"creatorLink":"http://youtube.com/c/FanVonFazon",
+"id":"perms",
+"title":"Command Permissions System",
+"logo":"https://i.imgur.com/IN82Pal.png",
+"video":"https://www.youtube.com/watch?v=iZmk3d2M09w&t=122s",
+"description":"https://nofile.io/f/wdSPCwrN88f/Permissions+Datapack+desc.md",
+"version":"1.0",
+"files":{
+"0.1":"https://nofile.io/f/4jFeH8m390x/%C2%A71Permissions+by+%C2%A79FanVonFazon+(0.1).zip",
+"1.0":"https://nofile.io/f/Ef4QVq14vVd/%C2%A71Permissions+by+%C2%A79FanVonFazon+(1.0).zip"
+}
+}
