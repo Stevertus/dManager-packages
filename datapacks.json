@@ -1,4 +1,12 @@
 [{
+  "id":"we-cyl",
+  "url":"/we-cyl/datapack.json"
+},
+{
+  "id":"we-core",
+  "url":"/we-core/datapack.json"
+},
+{
   "id":"tpcraft",
   "url":"/tpcraft"
   },{
