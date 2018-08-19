@@ -1,18 +1,22 @@
 {
   "id":"radiated_pa_dp",
   "type":"datapack",
-  "version":"Beta 0.3",
+  "version":"Beta 0.4",
   "title":"Radiated Evolution",
   "logo":"https://i.imgur.com/IgEM5xi.png",
-  "creator": "The Nuclear Nexus",
-  "creatorLink": "https://www.youtube.com/channel/UCegI5IfnYr2zRysbSqsr24Q",
-  "website": "https://thenuclearnexus.weebly.com",
+  ["video"]:"",
+  ["url"]: ""
+  ["banner"]: "",
+  ["creator"]: "The Nuclear Nexus",
+  ["creatorLink"]: "https://www.youtube.com/channel/UCegI5IfnYr2zRysbSqsr24Q",
+  ["website"]: "https://thenuclearnexus.weebly.com",
   "files": {
-    "Beta 0.3": "https://nofile.io/f/8Dvu9zSZYeV/PrimalAge-Beta-0.3.zip",
-    "Beta 0.2": "https://nofile.io/f/Hcu3F39WH74/PrimalAge-Beta-0.2.zip"
+    "b0.4": "https://github.com/TheNuclearNexus/radiated-evolution/archive/master.zip",
+    "b0.3": "https://www.dropbox.com/s/w0tpx5d4xsisoqx/PrimalAge-Beta-0.3.zip?dl=1",
+    "b0.2": "https://www.dropbox.com/s/t4usksw1k6917qr/PrimalAge-Beta-0.2.zip?dl=1"
   },
-  "description":"https://nofile.io/f/Vng5WECxkCG/README%5B1%5D.md",
-  "dependencies":[
+  "description":"https://www.dropbox.com/s/p6xghylv4z3zt6m/README.md?dl=1",
+  ["dependencies"]:[
 	"datapack_utils",
 	"radiated_pa_rp"
 ]
