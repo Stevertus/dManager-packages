@@ -1,0 +1,14 @@
+{
+"type":"resourcepack",
+"creator":"Seba244c",
+"id":"TSB-RP",
+"title":"The Survival Box RP",
+"description":"https://github.com/seba244c/The-Survival-Box/blob/master/guide.md",
+"logo":"https://i.imgur.com/VwvSdk6.png",
+"creatorLink":"seba244c@meddel.dk",
+"version":"v.2.0",
+"files":{
+"v.2.0":"https://nofile.io/g/prr2ng3GgvRSwq6S9ARmOgKvX06KTPUpx3Yk8g7xS2ncwHMbvfiLTyVxHnBlyHPs/TSB+rp+v.2.zip/",
+"v.1.0":"https://nofile.io/g/a7w41LwaB1TQ5hMrrZBLq0F5eBiFwXarNetn3N8TT7RQi7xrqIRZ5oT6hknvoymC/Better_Minecraft_RP.zip/"
+}
+}
