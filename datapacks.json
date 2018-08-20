@@ -111,5 +111,13 @@
   {
     "id":"perms",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/fanvonfazon-perms.json"
+  },
+  {
+    "id":"TSB-DP",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-DP.json"
+  },
+  {
+    "id":"TSB-RP",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json"
   }
 ]
