@@ -25,6 +25,14 @@
   "url":"/tekPackR"
   },
   {
+    "id":"TSB-RP",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json"
+  },
+  {
+    "id":"TSB",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB.json"
+  },
+  {
     "id":"tnn_nei",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/nexus-tnn_nei.json"
   },

@@ -1,0 +1,17 @@
+{
+"type":"datapack",
+"creator":"Seba244c",
+"id":"TSB",
+"title":"The Survival Box",
+"description":"https://raw.githubusercontent.com/seba244c/The-Survival-Box/master/guide.md",
+"logo":"https://i.imgur.com/nfAHBr6.png",
+"creatorLink":"seba244c@meddel.dk",
+"dependencies":[
+"TSB-RP"
+],
+"version":"3.1",
+"files":{
+"3.1":"https://nofile.io/f/sOSDw88fcu8",
+"3.0":"https://nofile.io/f/eUEA58bjwaU",
+}
+}
