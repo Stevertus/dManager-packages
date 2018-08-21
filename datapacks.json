@@ -15,7 +15,7 @@
   },
   {
     "id":"vf",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/halbzwilling-vf.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/halbzwilling-vf.json?"
   },
   {
   "id":"tekPack",
@@ -26,98 +26,98 @@
   },
   {
     "id":"TSB-RP",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json?"
   },
   {
     "id":"TSB",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB.json?"
   },
   {
     "id":"tnn_nei",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/nexus-tnn_nei.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/nexus-tnn_nei.json?"
   },
   {
     "id":"ore_gen",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/giro17-ore_gen.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/giro17-ore_gen.json?"
   },
   {
     "id":"Vampirism",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/useranimated-Vampirism.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/useranimated-Vampirism.json?"
   },
   {
     "id":"ununstackable_items",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/shade-ununbreakable_items.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/shade-ununbreakable_items.json?"
   },
   {
     "id":"ununstackable_res",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/shade-ununbreakable_items_res.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/shade-ununbreakable_items_res.json?"
   },
   {
     "id":"mana",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-mana.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-mana.json?"
   },
   {
     "id":"stoneCrafting_rp",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_rp.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_rp.json?"
   },
   {
     "id":"stoneCrafting_dp",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_dp.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_dp.json?"
   },
   {
     "id":"mechanization",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json?"
   },
   {
     "id":"mechanzation_resources",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization_resources.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization_resources.json?"
   },
   {
     "id":"radiated_pa_dp",
-    "url":"https://cdn.discordapp.com/attachments/470228974593900584/471012038521651210/TNN-radiated_pa_dp.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_dp.json?"
   },
   {
     "id":"radiated_pa_rp",
-    "url":"https://cdn.discordapp.com/attachments/470228974593900584/471012042388537354/TNN-radiated_pa_rp.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-radiated_pa_rp.json?"
   },
   {
     "id":"soulbound",
-    "url":"https://raw.githubusercontent.com/TheBMan-Datapacks/Soulbound/master/datapack.json"
+    "url":"https://raw.githubusercontent.com/TheBMan-Datapacks/Soulbound/master/datapack.json?"
   },
   {
     "id":"CyTweaksMinecraft",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Cyklan-CyTweaksMinecraft.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Cyklan-CyTweaksMinecraft.json?"
   },
   {
     "id":"darkspyro_minigames",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Darkspyro911-minigames.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Darkspyro911-minigames.json?"
   },
   {
     "id":"net.plagiatus.itemchallenge",
-    "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/itemchallenge/datapack.json"
+    "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/itemchallenge/datapack.json?"
   },
   {
     "id":"datapack_utils",
-    "url":"https://cdn.discordapp.com/attachments/470189341801578508/471122547186991115/datapack.json"
+    "url":"https://cdn.discordapp.com/attachments/470189341801578508/471122547186991115/datapack.json?"
     },
   {
     "id":"net.plagiatus.multiplayersleep",
-    "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/multiplayer_sleep/datapack.json"
+    "url":"https://raw.githubusercontent.com/Plagiatus/datapacks/master/multiplayer_sleep/datapack.json??"
   },
   {
     "id":"wawla",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/thebman-wawla.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/thebman-wawla.json?"
   },
   {
     "id":"tnn_mo_food",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-mofood.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/TNN-mofood.json?"
   },
   {
     "id":"libEntitiesControl",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lucsoft-libEntitiesControl.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lucsoft-libEntitiesControl.json?"
   },
   {
     "id":"perms",
-    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/fanvonfazon-perms.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/fanvonfazon-perms.json?"
   }
 ]
