@@ -29,6 +29,10 @@
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json?"
   },
   {
+    "id":"WaterLife",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lemoonstar-WaterLife.json?"
+  },
+  {
     "id":"TSB",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB.json?"
   },
