@@ -25,6 +25,10 @@
   "url":"/tekPackR"
   },
   {
+    "id":"homeex",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/lex305-homeex.json?"
+  },
+  {
     "id":"TSB-RP",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/seba244c-TSB-RP.json?"
   },
