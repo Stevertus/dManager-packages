@@ -8,11 +8,13 @@
 "banner":"https://unitcore.de/waterlife/waterlifebanner.png",
 "logo":"https://unitcore.de/waterlife/waterlifelogo.png",
 "description":"https://unitcore.de/waterlife/dmanagerdescription/desc.md",
+"video":"",
 "dependencies":[
 "vf"
 ],
-"version":"1.0",
+"version":"1.1",
 "files":{
-"1.0":"https://nofile.io/f/8eKdVSfyRc1/waterlife.zip"
+"1.1":"http://unitcore.de/waterlife/download/waterlife_v1.1.zip",
+"1.0":"http://unitcore.de/waterlife/download/waterlife_v1.0.zip"
 }
 }
