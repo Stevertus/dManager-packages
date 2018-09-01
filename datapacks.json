@@ -1,4 +1,7 @@
 [{
+  "id":"we-br",
+  "url":"/we-br/datapack.json"
+},{
   "id":"we-qb",
   "url":"/we-qb/datapack.json"
 },
