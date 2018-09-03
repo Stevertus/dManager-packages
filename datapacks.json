@@ -80,6 +80,14 @@
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-stoneCrafting_dp.json?"
   },
   {
+    "id":"ftR",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-ftR.json?"
+  },
+  {
+    "id":"ft_",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/ardvark8op-ft.json?"
+  },
+  {
     "id":"mechanization",
     "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/icy-mechanization.json?"
   },

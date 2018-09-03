@@ -1,0 +1,12 @@
+{
+"type":"resourcepack",
+"creator":"Ardvark8op",
+"id":"ftR",
+"title":"Flex Tape® Resource Pack",
+"logo":"https://i.imgur.com/pANEcq5.png",
+"description":"https://raw.githubusercontent.com/Ardvark8op/Flex-Tape-MC/master/README.md",
+"version":"1.0",
+"files":{
+"1.0":"https://github.com/Ardvark8op/Flex-Tape-MC/raw/master/Flex%20Tape.zip"
+}
+}
