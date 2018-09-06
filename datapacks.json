@@ -113,7 +113,11 @@
   },
   {
     "id":"darkspyro_minigames",
-    "url":"https://cdn.discordapp.com/attachments/470189341801578508/485515970237169674/datapack.json"
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/darkspyro_mingames.json"
+  },
+  {
+    "id":"darkspyro_muisc",
+    "url":"https://raw.githubusercontent.com/Stevertus/dManager-packages/master/packages/Darkspyro_music.json"
   },
   {
     "id":"net.plagiatus.itemchallenge",

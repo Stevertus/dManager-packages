@@ -1,0 +1,15 @@
+{
+"type":"resourcepack",
+"creator":"Darkspyro911",
+"id":"Darkspyro_muisc",
+"title":"Darkspyro911_minigame_muisc",
+"description":"https://nofile.io/f/Woh0sVoHjDq/New+Text+Document.txt",
+"logo":"https://cdn.discordapp.com/attachments/477253373762994186/486978671635333150/4.png",
+"dependencies":[
+"darkspyro_minigames"
+],
+"version":"1.1.0",
+"files":{
+"1.1.0":"https://nofile.io/f/OcBNooC4aVj/darkspyro911+minagame+muisc.zip"
+}
+}

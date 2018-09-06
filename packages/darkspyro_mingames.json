@@ -1,0 +1,15 @@
+{
+"type":"datapack",
+"creator":"Darkspyro911",
+"id":"darkspyro_mingames",
+"title":"darkspyro911_minigames",
+"logo":"https://cdn.discordapp.com/attachments/477253373762994186/486978671635333150/4.png",
+"description":"https://cdn.discordapp.com/attachments/450701943103553536/479437412662116360/new_1_2.txt",
+"dependencies":[
+"darkspyro_muisc"
+],
+"version":"1.3.0",
+"files":{
+"1.3.0":"https://nofile.io/f/e4qt9DgxQnm/Darkspyro911Minigames.zip"
+}
+}
