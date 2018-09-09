@@ -1,0 +1,17 @@
+{
+"type":"datapack",
+"creator":"Ardvark8op",
+"id":"ft_",
+"title":"Flex Tape®",
+"logo":"https://i.imgur.com/pANEcq5.png",
+"description":"https://raw.githubusercontent.com/Ardvark8op/Flex-Tape-MC/master/README.md",
+"dependencies":[
+"stoneCrafting",
+"datapack_utils",
+"ftR"
+],
+"version":"1.0",
+"files":{
+"1.0":"https://github.com/Ardvark8op/Flex-Tape-MC/raw/master/Flex%20Tape%C2%AE.zip"
+}
+}
