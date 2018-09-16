@@ -1,4 +1,10 @@
 [{
+  "id":"we-li",
+  "url":"/we-li/datapack.json"
+},{
+  "id":"we-tb",
+  "url":"/we-tb/datapack.json"
+},{
   "id":"we-br",
   "url":"/we-br/datapack.json"
 },{
